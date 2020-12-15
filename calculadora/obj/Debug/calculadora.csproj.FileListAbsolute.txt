@@ -1,0 +1,6 @@
+/Users/juanpablo/Projects/calculadora/calculadora/bin/calculadora.dll
+/Users/juanpablo/Projects/calculadora/calculadora/bin/calculadora.pdb
+/Users/juanpablo/Projects/calculadora/calculadora/obj/Debug/calculadora.csprojAssemblyReference.cache
+/Users/juanpablo/Projects/calculadora/calculadora/obj/Debug/calculadora.csproj.CoreCompileInputs.cache
+/Users/juanpablo/Projects/calculadora/calculadora/obj/Debug/calculadora.dll
+/Users/juanpablo/Projects/calculadora/calculadora/obj/Debug/calculadora.pdb

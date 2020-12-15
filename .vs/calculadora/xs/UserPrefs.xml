@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{11C07A88-36DF-4406-8D93-C3C18333099F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculadora/Default.aspx.cs">
+    <Files>
+      <File FileName="calculadora/Default.aspx" Line="16" Column="20" />
+      <File FileName="calculadora/Default.aspx.cs" Line="218" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calculadora" expanded="True">
+            <Node name="calculadora" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.calculadora FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.calculadora.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
